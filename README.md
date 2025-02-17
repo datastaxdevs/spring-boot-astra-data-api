@@ -52,5 +52,6 @@ curl -X POST http://localhost:8080/tables/todos \
 ```
 
 - You can go data explorer:
+![Screenshot 2025-02-17 at 15 06 28](https://github.com/user-attachments/assets/403d8553-05f0-4b9e-900a-226072464a91)
 
 
